@@ -1,6 +1,6 @@
 # Compiler
 
-## Minor 2 COMPILER DESIGN AND IMPLEMENTATION
+## *italicized text* Minor 2 COMPILER DESIGN AND IMPLEMENTATION
 
 ```Roadmap (Diagram)
 Week 1  :-
