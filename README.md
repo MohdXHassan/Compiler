@@ -15,3 +15,5 @@ for backend LLVM :- https://www.youtube.com/watch?v=I5fNrmQYeuI&list=PLnuhp3Xd9P
 for LLVM :-  https://www.youtube.com/watch?v=t2gcOqGwIo4&list=PLDSTpI7ZVmVnvqtebWnnI8YeB8bJoGOyv&index=22 (clang tool)
 for reference youtube series :- https://www.youtube.com/watch?v=vcSijrRsrY0&list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs&index=3
 ```
+## LICENSE
+[MIT]
