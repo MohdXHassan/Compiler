@@ -1,8 +1,9 @@
-#*Compiler*
+#Compiler*
 
-##  Minor 2 COMPILER DESIGN AND IMPLEMENTATION
+*Minor 2 COMPILER DESIGN AND IMPLEMENTATION*
 
-```Roadmap (Diagram)
+Roadmap
+```
 Week 1  :-
 (a) Reading book :-  https://craftinginterpreters.com/contents.html
 (b) Defining Sytax
